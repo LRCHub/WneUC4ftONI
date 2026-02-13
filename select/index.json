@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Suburbs",
+  "base_artist": "Good Neighbours",
+  "createdAt": "2026-02-13T08:16:02.776924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suburbs Of Moscow",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/01_Suburbs_Of_Moscow_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Suburbs",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/02_The_Suburbs_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Suburbs (Continued)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/03_The_Suburbs_(Continued)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Suburbs",
+      "artist": "Mr Little Jeans",
+      "has_synced": true,
+      "path": "select/04_The_Suburbs_Mr_Little_Jeans.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dreadlocks of the Suburbs",
+      "artist": "Dead Kennedys",
+      "has_synced": false,
+      "path": "select/05_Dreadlocks_of_the_Suburbs_Dead_Kennedys.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockin' the Suburbs",
+      "artist": "Ben Folds",
+      "has_synced": true,
+      "path": "select/06_Rockin'_the_Suburbs_Ben_Folds.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rockin' the Suburbs (Album Version)",
+      "artist": "Ben Folds",
+      "has_synced": true,
+      "path": "select/07_Rockin'_the_Suburbs_(Album_Version)_Ben_Folds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sound of the Suburbs",
+      "artist": "The Members",
+      "has_synced": true,
+      "path": "select/08_Sound_of_the_Suburbs_The_Members.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Guy From The Suburbs",
+      "artist": "FFS feat. Franz Ferdinand & Sparks",
+      "has_synced": true,
+      "path": "select/09_Little_Guy_From_The_Suburbs_FFS_feat._Franz_Ferdinand_&_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Little Guy from the Suburbs",
+      "artist": "FFS",
+      "has_synced": true,
+      "path": "select/10_Little_Guy_from_the_Suburbs_FFS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Salem's Suburbs",
+      "artist": "Project 86",
+      "has_synced": true,
+      "path": "select/11_Salem's_Suburbs_Project_86.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dinner At Eight in the Suburbs",
+      "artist": "All-Time Quarterback",
+      "has_synced": false,
+      "path": "select/12_Dinner_At_Eight_in_the_Suburbs_All-Time_Quarterback.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back To The Suburbs",
+      "artist": "Frenzal Rhomb",
+      "has_synced": false,
+      "path": "select/13_Back_To_The_Suburbs_Frenzal_Rhomb.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Suburbs (continued)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/14_The_Suburbs_(continued)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Sound Of The Suburbs",
+      "artist": "The Members",
+      "has_synced": true,
+      "path": "select/15_The_Sound_Of_The_Suburbs_The_Members.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Suburbs",
+      "artist": "Good Neighbours",
+      "has_synced": false,
+      "path": "select/pl_01_Suburbs_Good_Neighbours.txt"
+    }
+  ]
+}
