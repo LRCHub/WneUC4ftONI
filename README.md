@@ -1,0 +1,94 @@
+# Good Neighbours – Suburbs
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You can try your
+best to play it off and
+take it on the chin
+You can try to wrap your
+head around the
+feeling that you're in
+But you're lost
+Ooh-ooh, ooh-ooh
+But you're lost
+You could pull the wool
+over your eyes and blame it
+on the stars
+Put your ceiling on the
+county line and sit upon
+the sparks
+Till they're gone
+Ooh-ooh, ooh-ooh
+Till they're gone
+But I heard from the suburbs
+That you wanna
+Leave the pack
+Cold feet in the summer
+(Yeah, yeah)
+You're a runner
+(Yeah, yeah)
+And you're fast
+So, don't you let 'em
+hold you back
+Yeah, yeah
+Is it stuck in your heart?
+Is it stuck in your head?
+Is it stuck in your throat?
+If it's more than a dream
+All you wanted to be,
+but you're letting it go
+You're letting it go
+If you think that you know
+what you want
+Don't go biting your tongue
+till you leave it too late
+But I heard from the suburbs
+(Yeah, yeah)
+That you wanna
+(Yeah, yeah)
+Leave the pack
+Cold feet in the summer
+(Yeah, yeah)
+You're a runner
+(Yeah, yeah)
+And you're fast
+So, don't you let 'em
+hold you back
+Yeah, yeah
+So, don't you let 'em
+hold you back
+Yeah, yeah
+If you think that you know
+what you want
+Don't go biting your tongue
+till you leave it too late
+If you think that you know
+what you want
+Don't go biting your tongue
+till you leave it too late
+I heard from the suburbs
+(If you think that you know
+what you want)
+(Don't go biting your tongue
+till you leave it too late)
+I heard from the suburbs
+(If you think that you know
+what you want)
+(Don't go biting your tongue
+till you leave it too late)
+I heard from the suburbs
+That you wanna
+Leave the pack
+Cold feet in the summer
+(Yeah, yeah)
+You're a runner
+(Yeah, yeah)
+And you're fast
+So, don't you let 'em
+hold you back
+Yeah, yeah
+So, don't you let 'em
+hold you back
+Yeah, yeah
+```
